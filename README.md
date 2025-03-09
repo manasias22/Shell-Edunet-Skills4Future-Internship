@@ -1,5 +1,5 @@
 # Shell-Edunet-Skills4Future-Internship
-## 4-weeks Shell-Edunet Skills4Future Internship (Feb 2025 - Mar 2025). A 4-week internship presented by Edunet Foundation, in collaboration with AICTE &amp; Shell, focusing on Green Skills using AI technologies.
+### 4-weeks Shell-Edunet Skills4Future Internship (Feb 2025 - Mar 2025). A 4-week internship presented by Edunet Foundation, in collaboration with AICTE &amp; Shell, focusing on Green Skills using AI technologies.
 # Sustainable Supply Chain Performance Dashboard in Power BI
 ## Overview
 This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.
